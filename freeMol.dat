@@ -1,0 +1,7 @@
+25                        ! ndrug: number of drug-like molecules
+28                         ! natom: number of atoms in one molecule
+run01.pdb                  ! Input pdb file
+freeMol.out                ! General output file
+2                          ! clscut:Minimum number of molecules needed for a cluster 
+04.000                     ! rcut: cutoff value for distance between two molecules(A)
+
